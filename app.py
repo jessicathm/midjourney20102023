@@ -2,32 +2,6 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 3,
-   "id": "fe181231-2757-4237-8888-5ee526384143",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Defaulting to user installation because normal site-packages is not writeable\n",
-      "Looking in links: /usr/share/pip-wheels\n",
-      "Requirement already satisfied: flask in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (2.2.2)\n",
-      "Requirement already satisfied: Werkzeug>=2.2.2 in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (from flask) (2.2.3)\n",
-      "Requirement already satisfied: Jinja2>=3.0 in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (from flask) (3.1.2)\n",
-      "Requirement already satisfied: itsdangerous>=2.0 in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (from flask) (2.0.1)\n",
-      "Requirement already satisfied: click>=8.0 in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (from flask) (8.0.4)\n",
-      "Requirement already satisfied: MarkupSafe>=2.0 in /opt/conda/envs/anaconda-panel-2023.05-py310/lib/python3.11/site-packages (from Jinja2>=3.0->flask) (2.1.1)\n",
-      "Note: you may need to restart the kernel to use updated packages.\n"
-     ]
-    }
-   ],
-   "source": [
-    "pip install flask"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
    "id": "de87e595-b466-4149-ad73-b6645e120d45",
    "metadata": {},
